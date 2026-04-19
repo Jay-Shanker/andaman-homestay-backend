@@ -1,0 +1,7 @@
+2026-04-19 16:49:22 [INFO] Database connected
+2026-04-19 16:49:22 [INFO] Andaman Homestay API running on port 3000
+2026-04-19 16:49:22 [INFO] Health: http://localhost:3000/health
+2026-04-19 16:49:50 [INFO] ::1 - - [19/Apr/2026:11:19:50 +0000] "GET /health HTTP/1.1" 200 105 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+2026-04-19 16:49:51 [INFO] ::1 - - [19/Apr/2026:11:19:51 +0000] "GET /favicon.ico HTTP/1.1" 404 45 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+2026-04-19 16:50:43 [INFO] ::1 - - [19/Apr/2026:11:20:43 +0000] "POST /api/auth/login HTTP/1.1" 200 396 "-" "curl/8.7.1"
+2026-04-19 16:52:25 [INFO] ::1 - - [19/Apr/2026:11:22:25 +0000] "GET /api/rooms HTTP/1.1" 200 1657 "-" "curl/8.7.1"
